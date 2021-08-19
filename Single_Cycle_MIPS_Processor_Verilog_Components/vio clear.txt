@@ -1,0 +1,2 @@
+reset_hw_vio_outputs [get_hw_vios {hw_vio_1}]
+refresh_hw_vio -update_output_values [get_hw_vios {hw_vio_1}]
